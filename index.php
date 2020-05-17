@@ -97,7 +97,7 @@ $conn->close();
 ?>
 </head>
 <body>
-<h2> Employee Registration Form </h2>
+<h2> Emp Registration Form </h2>
 <form action="index.php" method="POST">
         <div class="imgcontainer">
     <img src="image.png" alt="Avatar" class="avatar">
